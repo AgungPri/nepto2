@@ -15,6 +15,7 @@ const menuAgung = [
   { name: 'Company', href: '#' },
   { name: 'Admin', href: './admin' },
   { name: 'Form', href: '#' },
+  { name: 'SignOut', href: '#' },
 ]
 
 export default function Home() {
