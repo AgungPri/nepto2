@@ -14,7 +14,7 @@
   }
   ```
 */
-export default function Example() {
+export default function faq() {
     return (
         <>
             <div>
